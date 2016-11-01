@@ -1,0 +1,2 @@
+c:\users\мои документы\visual studio 2015\Projects\Radiozavod_test01\Radiozavod_test01\bin\Debug\Radiozavod_test01.exe.config
+C:\Users\Илья\Source\Repos\Test\Radiozavod_test01\Radiozavod_test01\bin\Debug\Radiozavod_test01.exe.config
